@@ -23,9 +23,9 @@ Correct sequence: [((())()(()))]
 ``` python main.py ```
 
 
- Example Usage 
+## 🖥️ Example Usage
 
-
+```text
 Case 1: Enter a number greater than 7
 ------------------------------------
 Enter input (or 'exit' to quit): 10
@@ -47,7 +47,6 @@ There is no such name
 Case 4: Enter a numeric array
 -----------------------------
 Enter input (or 'exit' to quit): [1, 2, 3, 4, 5, 6, 9]
-Valid list of numbers: [1, 2, 3, 4, 5, 6, 9]
 Multiples of 3: [3, 6, 9]
 
 
@@ -55,3 +54,4 @@ Case 5: Exit the program
 ------------------------
 Enter input (or 'exit' to quit): exit
 Goodbye!
+```
