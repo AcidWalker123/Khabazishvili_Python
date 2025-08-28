@@ -22,9 +22,9 @@ Correct sequence: [((())()(()))]
 4. Run the program
 ``` python main.py ```
 
-===============================
+
  Example Usage 
-===============================
+
 
 Case 1: Enter a number greater than 7
 ------------------------------------
